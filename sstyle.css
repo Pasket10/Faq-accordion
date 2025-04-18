@@ -67,7 +67,7 @@ body {
     display: none;
 }
 
-@media (max-width: 390px) {
+@media (max-width: 414px) {
     .container {
         display: flex;
         justify-content: center;
